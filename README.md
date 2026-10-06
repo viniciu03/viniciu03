@@ -236,14 +236,6 @@ public class Vinicius {
 
 ---
 
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/viniciu03/viniciu03/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 # 🎯 Objetivos
 
 - ☕ Evoluir em **Java e Backend**
@@ -261,10 +253,6 @@ public class Vinicius {
 # 🤝 Vamos conectar?
 
 <p align="center">
-
-<a href="https://github.com/viniciu03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-andr%C3%A9-dos-santos-souza-101968159/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
